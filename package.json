@@ -22,6 +22,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.2",
     "@uniswap/v3-core": "^1.0.1",
+    "arb": "^0.0.1",
     "axios": "^1.4.0",
     "boringcrypto_locla": "file:@boringcrypto",
     "distributor": "^0.4.0",
