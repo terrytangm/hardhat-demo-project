@@ -17,22 +17,19 @@ module.exports = {
     eth_testnet: {
       url: `https://goerli.infura.io/v3/${projectId}`,
       accounts: {
-        mnemonic:
-          "obscure satoshi lecture culture lady pattern fog shoe emerge step wonder sword",
+        mnemonic: mnemonic1,
       },
     },
     bsc: {
       url: `https://bsc-dataseed.binance.org/`,
       accounts: {
-        mnemonic:
-          "obscure satoshi lecture culture lady pattern fog shoe emerge step wonder sword",
+        mnemonic: mnemonic1,
       },
     },
     bsc_testnet: {
       url: `https://data-seed-prebsc-1-s1.binance.org:8545/`,
       accounts: {
-        mnemonic:
-          "obscure satoshi lecture culture lady pattern fog shoe emerge step wonder sword",
+        mnemonic: mnemonic1,
       },
     },
     hardhat: {
